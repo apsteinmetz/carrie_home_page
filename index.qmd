@@ -1,0 +1,29 @@
+---
+title: "Carrie Steinmetz"
+image: "img/waltz head.jpg"
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/carrie-steinmetz-87a70769/"
+    - text: Facebook
+      url: "https://www.facebook.com/carrie.steinmetz.58"
+    - text: Email
+      url: "mailto:carebearnyc@yahoo.com"
+comments: false
+---
+
+:::{.column-page}
+
+# Professional Life
+
+Carrie and her business/dance partner, Emmanuel Pierre-Antoine, are the owners and managers of [**EPA Dance Studio NYC**](https://www.epadancestudionyc.com/), the largest ballroom dance studio in the city. Come dance with us!
+
+[![](img/dancing%20in%20green.PNG)](https://www.epadancestudionyc.com/)
+
+# Philanthropic Work
+
+Carrie is the former board chair and a big supporter of [**Dancing Classrooms**](https://dancingclassrooms.org/). Through the joyful art and practice of social dances, **Dancing Classrooms** cultivates engaged learners, collaborative leaders, and inclusive spaces.
+
+[![](img/dc1.jpg)](https://dancingclassrooms.org/)
+:::
