@@ -5,10 +5,13 @@ about:
   template: trestles
   links:
     - text: LinkedIn
+      icon: linkedin
       url: "https://www.linkedin.com/in/carrie-steinmetz-87a70769/"
     - text: Facebook
+      icon: facebook
       url: "https://www.facebook.com/carrie.steinmetz.58"
     - text: Email
+      icon: email
       url: "mailto:carebearnyc@yahoo.com"
 comments: false
 ---
@@ -23,7 +26,7 @@ Carrie and her business/dance partner, Emmanuel Pierre-Antoine, are the owners a
 
 # Philanthropic Work
 
-Carrie is the former board chair and a big supporter of [**Dancing Classrooms**](https://dancingclassrooms.org/). Through the joyful art and practice of social dances, **Dancing Classrooms** cultivates engaged learners, collaborative leaders, and inclusive spaces.
+Carrie is the former board chair and a big supporter of [**Dancing Classrooms**](https://dancingclassrooms.org/). Through the joyful art and practice of social dances, Dancing Classrooms cultivates engaged learners, collaborative leaders, and inclusive spaces.
 
 [![](img/dc1.jpg)](https://dancingclassrooms.org/)
 :::
