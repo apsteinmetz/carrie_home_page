@@ -1,14 +1,14 @@
 ---
 title: "Celebrate Carrie's Fiftieth Birthday on Anguilla!"
-website:
-  comments: 
-    utterances:
-      repo: apsteinmetz/carrie_home_page
+comments: 
+  utterances:
+    repo: apsteinmetz/carrie_home_page
+    label: bday
 ---
 
 ![](img/carrie_swing.JPG)
 
-## Things You Have to Do
+# Things You Have to Do
 
 Carrie is providing the hotel and transportation but you still have to do a few things.
 
