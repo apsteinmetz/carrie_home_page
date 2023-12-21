@@ -12,13 +12,13 @@ comments:
 
 *Dearest people to me,*
 
-*Thank you for being there for me all these years; all these years that don’t seem possible to be passing by so quickly. It’s now almost 2024, and some of us haven’t been together in over a year or more, even if it feels like yesterday - it wasn’t! You are so present in my heart and how I think about you so often for inspiration, laugh at our crazy times, and wonder how in the world we have made it this point given those crazy times! My biggest wish to celebrate walking around the sun for a half-century would be to spend some time together, connect with you more frequently and to tell you how important each of you are to me (ok that’s 3 wishes but..). So, whether the timing of this one celebration works for you or not given all the hectic schedules, let’s plan some time to celebrate:) For folks who have an opening in March, let’s get our Island on! Love you all and so looking forward to seeing each of you whenever possible.*
+*Thank you for being there for me all these years; all these years that don't seem possible to be passing by so quickly. It's now almost 2024, and some of us haven't been together in over a year or more, even if it feels like yesterday - it wasn't! You are so present in my heart and how I think about you so often for inspiration, laugh at our crazy times, and wonder how in the world we have made it this point given those crazy times! My biggest wish to celebrate walking around the sun for a half-century would be to spend some time together, connect with you more frequently and to tell you how important each of you are to me (ok that's 3 wishes but..). So, whether the timing of this one celebration works for you or not given all the hectic schedules, let's plan some time to celebrate:) For folks who have an opening in March, let's get our Island on! Love you all and so looking forward to seeing each of you whenever possible.*
 
 #### *Love, Carrie*
 
 # A Message from the Host:
 
-We are so happy to invite you to (Carrie’s version of) paradise to enjoy some sun, sand, surf, reggae, food, drinks, good people, …. Oh and a Birthday! We will get you down to paradise and have a place to rest (if you don’t just end up sleeping on the beach!), but we please need your HELP with the following:
+We are so happy to invite you to (Carrie's version of) paradise to enjoy some sun, sand, surf, reggae, food, drinks, good people, .... Oh and a Birthday! We will get you down to paradise and have a place to rest (if you don't just end up sleeping on the beach!), but we please need your HELP with the following:
 
 # HELP - Things You Have to Do
 
@@ -53,5 +53,26 @@ Carrie is providing the hotel, transportation and some fabulous meals and activi
 [Carrie's Happy Place](https://sunshineshack.net/)
 
 [![](img/sunshine_shack.jpg)](https://sunshineshack.net/about/)
+
+Jimmy Buffet and Bankie Banx Jam at Dune Preserve
+
+::: {layout-ncol=2}
+
+::: {#fig-Youtube}
+
+<iframe src="https://www.youtube.com/embed/3ui6A-IyGLA?si=wj4JXFlxc_PuO9fQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
+
+:::
+
+::: {#fig-Spotify}
+
+<iframe style="border-radius:1px" src="https://open.spotify.com/embed/album/5V8MisPCUcMmFQ7ZhJdRxc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Spotify
+
+:::
+
+:::
 
 ### Share your questions, thoughts and lavish praise for Carrie below. Do not put any personal information in the comments.
