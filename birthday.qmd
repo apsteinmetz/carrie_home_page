@@ -26,15 +26,15 @@ Carrie is providing the hotel, transportation and some fabulous meals and activi
 
 ### 1. Block out the dates March 22-26.
 
-### 2. IMPORTANT - Fill Out This Form ASAP:
+### 2. IMPORTANT - To reserve a seat on the private jet you must tell Carrie your passport info and weight(!).
 
--   To reserve a seat on the private jet you must enter your personal and passport info [HERE.](https://anguillareservations.wufoo.com/forms/zm5y9yy13jy0yr/ "Link to air transport reservation form.") Where it asks hotel reservation number enter N/A. The departure airport is "HPN" and the arrival is "AXA" Round trip, of course. For passenger email, use "carebearnyc\@gmail.com." We can't reserve your seat on the private jet until this form is submitted!
+### 3. Arrange transportation to [Teterboro Airport](https://maps.app.goo.gl/p1kBoXwifvWyqMCSA) on March 22.
 
-### 3. Arrange transportation to [Westchester County Airport](https://maps.app.goo.gl/Xz9H3jVXMwtV3DuD7) on March 22.
+NOTE: We have switched the aircraft operator so the departure/return airport is now Teterboro in New Jersey.
 
--   More to come on this - if there is a NYC crew maybe we will Sprinter up together?
+-   More to come on this - if there is a NYC crew maybe we will Sprinter over together?
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3008.030016627815!2d-73.71124438765236!3d41.06833651560409!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c296296fab9575%3A0xcd43076ea23fc96d!2sWestchester%20County%20Airport!5e0!3m2!1sen!2sus!4v1702658459762!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3017.616814312382!2d-74.06410948836171!3d40.858336028524675!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2f9b1f19d526b%3A0x4fa4b83c3cb08f7b!2sTeterboro%20Airport!5e0!3m2!1sen!2sus!4v1706899212718!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
 
 </iframe>
 
@@ -48,7 +48,17 @@ Carrie is providing the hotel, transportation and some fabulous meals and activi
 
 [The Aurora Anguilla Resort](https://www.auroraanguilla.com/)
 
-[The Moonsplash Reggae Festival](https://www.bankiebanx.net/moonsplash)
+[The Moonsplash Music Festival](https://www.bankiebanx.net/moonsplash)
+
+![](img/moonsplash_poster.png)
+
+Moonsplash 2024 Artists Lineup
+
+March 22nd: Reggae Night welcomes the Grammy-nominated Protoje, captivating audiences with his signature blend of conscious lyrics and infectious rhythms.
+
+March 23rd: Legends Night takes a step back in time with The Legendary Wailers, channeling the timeless spirit of Bob Marley and immersing everyone in the roots of reggae.
+
+March 24th: Sunday’s Festival begins with a heart-pumping day-time Jimmy Buffett tribute concert that will have everyone singing along, and culminates with exciting performances by Mighty Mystic and The Moonsplash Allstars.
 
 [Carrie's Happy Place](https://sunshineshack.net/)
 
@@ -56,21 +66,18 @@ Carrie is providing the hotel, transportation and some fabulous meals and activi
 
 ### Jimmy Buffet and Bankie Banx Jam at Dune Preserve
 
-::: {layout-ncol=2}
-
+::: {layout-ncol="2"}
 ::: {layout}
-
 <iframe src="https://www.youtube.com/embed/3ui6A-IyGLA?si=wj4JXFlxc_PuO9fQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-</iframe>
 
+</iframe>
 :::
 
 ::: {layout}
+<iframe style="border-radius:1px" src="https://open.spotify.com/embed/album/5V8MisPCUcMmFQ7ZhJdRxc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
 
-<iframe style="border-radius:1px" src="https://open.spotify.com/embed/album/5V8MisPCUcMmFQ7ZhJdRxc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+</iframe>
 :::
-
 :::
 
 ### Share your questions, thoughts and lavish praise for Carrie below. Do not put any personal information in the comments.
