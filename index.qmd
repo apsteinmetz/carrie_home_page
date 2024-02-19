@@ -1,6 +1,6 @@
 ---
 title: "Carrie Steinmetz"
-image: "img/waltz head.jpg"
+image: "img/carrie head.png"
 about:
   template: trestles
   image-shape: round
